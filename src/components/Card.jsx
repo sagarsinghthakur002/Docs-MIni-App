@@ -1,5 +1,5 @@
 import React from 'react'
-import import { FaFileAlt } from "react-icons/fa";
+import  { FaFileAlt } from "react-icons/fa";
 
 function Card() {
   return (
